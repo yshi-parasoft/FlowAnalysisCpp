@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Metrics writerVersion="0.1.1" toolVer="2022.2.0" execEnv="win32_x86_64" hasViols="true" project="Default Project" buildId="Default Project-2023-03-08" climode="true" toolDispName="C/C++test" prjModule="FlowAnalysisCpp" toolId="c++test" machine="rhea" tag="${scontrol_branch}-win32_x86_64" time="2023-03-08T16:38:13-08:00" id="1677456433504" lang="en_US" user="yshi" toolName="DTP Engine for C/C++">
+  <TestConfig machine="rhea" pseudoUrl="../../conf/cpptest_settings.properties" name="cpptest_settings" user="yshi" />
+  <Analyzers>
+    <Analyzer id="com.parasoft.xtest.scope.analyzer" name="Scope Analyzer" ver="10.6.1.20221116" />
+    <Analyzer id="com.parasoft.xtest.cpp.analyzer.static.code" name="Parasoft C/C++ Code Analyzer" ver="10.6.1.20221118B1887" />
+    <Analyzer id="com.parasoft.xtest.dupcode.parser" name="Code Duplication Parser" ver="10.6.1.20221116" />
+    <Analyzer id="com.parasoft.xtest.cpp.analyzer.static.pattern" name="Parasoft C/C++ Static Analyzer" ver="10.6.1.20221118B1887" />
+    <Analyzer id="com.parasoft.xtest.cpp.analyzer.static.flow" name="Parasoft C/C++ Flow Analyzer" ver="10.6.1.20221108B3828" />
+    <Analyzer id="com.parasoft.xtest.cpp.analyzer.static.metrics" name="Parasoft C/C++ Metrics Analyzer" ver="10.6.1.20221118B1887" />
+    <Analyzer id="com.parasoft.xtest.cpp.analyzer.static.dupcode" name="Code Duplication Detector" ver="10.6.1.20221116" />
+    <Analyzer id="com.parasoft.xtest.cpp.analyzer.static.global" name="Parasoft C/C++ Global Static Analyzer" ver="10.6.1.20221118B1887" />
+  </Analyzers>
+  <Repositories />
+  <Locations>
+    <Loc locRef="1" projId="FlowAnalysisCpp" auth="yshi" project="FlowAnalysisCpp" uri="file://rhea/C:/Users/yshi/git/sonarqube-integration-tests/projects/FlowAnalysisCpp/NullPointer.cpp" projPath="/FlowAnalysisCpp" resProjPath="NullPointer.cpp" totLns="14" hash="-1257393797" />
+    <Loc locRef="2" projId="FlowAnalysisCpp" auth="yshi" project="FlowAnalysisCpp" uri="file://rhea/C:/Users/yshi/git/sonarqube-integration-tests/projects/FlowAnalysisCpp/DivisionByZero.cpp" projPath="/FlowAnalysisCpp" resProjPath="DivisionByZero.cpp" totLns="6" hash="-1665970746" />
+    <Loc locRef="3" projId="FlowAnalysisCpp" auth="yshi" project="FlowAnalysisCpp" uri="file://rhea/C:/Users/yshi/git/sonarqube-integration-tests/projects/FlowAnalysisCpp/MemoryLeak.cpp" projPath="/FlowAnalysisCpp" resProjPath="MemoryLeak.cpp" totLns="15" hash="1013754779" />
+    <Loc locRef="4" projId="FlowAnalysisCpp" auth="yshi" project="FlowAnalysisCpp" uri="file://rhea/C:/Users/yshi/git/sonarqube-integration-tests/projects/FlowAnalysisCpp/DeadLock.cpp" projPath="/FlowAnalysisCpp" resProjPath="DeadLock.cpp" totLns="152" hash="-1769734618" />
+  </Locations>
+<Values>
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NOBLIM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NOBLIM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="0.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NOBLIM" itemId="NullPointer.cpp#main" item="main" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOBLIM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="0.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.CLLOCRIF" itemId="MemoryLeak.cpp" item="MemoryLeak.cpp" val="0.0" module="FlowAnalysisCpp" ln="1" locRef="3" />
+  <Metric id="METRIC.CLLOCRIF" itemId="NullPointer.cpp" item="NullPointer.cpp" val="0.0" module="FlowAnalysisCpp" ln="1" locRef="1" />
+  <Metric id="METRIC.CLLOCRIF" itemId="DeadLock.cpp" item="DeadLock.cpp" val="0.11363636363636363" module="FlowAnalysisCpp" ln="1" locRef="4" />
+  <Metric id="METRIC.CLLOCRIF" itemId="DivisionByZero.cpp" item="DivisionByZero.cpp" val="0.0" module="FlowAnalysisCpp" ln="1" locRef="2" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NOCLIM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NOCLIM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="0.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NOCLIM" itemId="NullPointer.cpp#main" item="main" val="0.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="2.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOCLIM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="0.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="NullPointer.cpp#main" item="main" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.ECC" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.ECC" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="1.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="1.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.ECC" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="1.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="NullPointer.cpp#main" item="main" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.DIF" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.DIF" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="1.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.DIF" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOSLIF" itemId="MemoryLeak.cpp" item="MemoryLeak.cpp" val="13.0" module="FlowAnalysisCpp" ln="1" locRef="3" />
+  <Metric id="METRIC.NOSLIF" itemId="NullPointer.cpp" item="NullPointer.cpp" val="11.0" module="FlowAnalysisCpp" ln="1" locRef="1" />
+  <Metric id="METRIC.NOSLIF" itemId="DeadLock.cpp" item="DeadLock.cpp" val="114.0" module="FlowAnalysisCpp" ln="1" locRef="4" />
+  <Metric id="METRIC.NOSLIF" itemId="DivisionByZero.cpp" item="DivisionByZero.cpp" val="5.0" module="FlowAnalysisCpp" ln="1" locRef="2" />
+  <Metric id="METRIC.MCC" itemId="NullPointer.cpp#main" item="main" val="2.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.MCC" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.MCC" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="3.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="2.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="3.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="3.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="1.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.MCC" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="1.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="NullPointer.cpp#main" item="main" val="2.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.SCC" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.SCC" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="3.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="2.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="3.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="3.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="1.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.SCC" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="1.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="NullPointer.cpp#main" item="main" val="89.31135144010001" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HTTPM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="19.91645833733976" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HTTPM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="247.38240146216646" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="15.349972164140825" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="2.6318952394290043" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="2.6318952394290043" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="158.37241560339606" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.6376237045336022" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="177.8295728254658" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="26.231702464802467" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HTTPM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="26.231702464802467" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.IDOC" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOPLIF" itemId="MemoryLeak.cpp" item="MemoryLeak.cpp" val="15.0" module="FlowAnalysisCpp" ln="1" locRef="3" />
+  <Metric id="METRIC.NOPLIF" itemId="NullPointer.cpp" item="NullPointer.cpp" val="14.0" module="FlowAnalysisCpp" ln="1" locRef="1" />
+  <Metric id="METRIC.NOPLIF" itemId="DeadLock.cpp" item="DeadLock.cpp" val="152.0" module="FlowAnalysisCpp" ln="1" locRef="4" />
+  <Metric id="METRIC.NOPLIF" itemId="DivisionByZero.cpp" item="DivisionByZero.cpp" val="6.0" module="FlowAnalysisCpp" ln="1" locRef="2" />
+  <Metric id="METRIC.HLEVM" itemId="NullPointer.cpp#main" item="main" val="0.11818181818181818" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HLEVM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="0.2" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HLEVM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="0.06122448979591836" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="0.2142857142857143" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="0.5333333333333333" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="0.5333333333333333" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="0.10599078341013825" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.6666666666666666" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="0.09595959595959595" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.34782608695652173" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HLEVM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.34782608695652173" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.LCOM" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOF" itemId="NullPointer.cpp" item="NullPointer.cpp" val="1.0" module="FlowAnalysisCpp" ln="1" locRef="1" />
+  <Metric id="METRIC.NOF" itemId="DivisionByZero.cpp" item="DivisionByZero.cpp" val="1.0" module="FlowAnalysisCpp" ln="1" locRef="2" />
+  <Metric id="METRIC.NOF" itemId="MemoryLeak.cpp" item="MemoryLeak.cpp" val="1.0" module="FlowAnalysisCpp" ln="1" locRef="3" />
+  <Metric id="METRIC.NOF" itemId="DeadLock.cpp" item="DeadLock.cpp" val="1.0" module="FlowAnalysisCpp" ln="1" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="NullPointer.cpp#main" item="main" val="23.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HVOCM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="12.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HVOCM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="26.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="13.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="7.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="7.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="37.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="7.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="31.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="20.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HVOCM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="20.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOC" itemId="MemoryLeak.cpp#IOException" item="IOException" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.HDIFM" itemId="NullPointer.cpp#main" item="main" val="8.461538461538462" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HDIFM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="5.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HDIFM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="16.333333333333336" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="4.666666666666666" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.875" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.875" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="9.434782608695652" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.5" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="10.421052631578949" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="2.875" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HDIFM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="2.875" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOPUBMIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.CC" itemId="NullPointer.cpp#main" item="main" val="2.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.CC" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.CC" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="3.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="2.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="3.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="3.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="1.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.CC" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="1.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="NullPointer.cpp#main" item="main" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NBD" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NBD" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="2.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="1.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="2.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="2.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NBD" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="NullPointer.cpp#main" item="main" val="0.045743499399256794" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HNOBM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="0.016821580068732543" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HNOBM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="0.09022021346681347" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="0.014140470147040195" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="0.0043642038759584886" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="0.0043642038759584886" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="0.06701589253292556" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.003180793777265159" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="0.07239813887142293" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.020212015272667274" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HNOBM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.020212015272667274" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="NullPointer.cpp#main" item="main" val="2.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NOPAR" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="2.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NOPAR" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="2.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="2.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NOPAR" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.RFC" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.WMC" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NORET" itemId="NullPointer.cpp#main" item="main" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NORET" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NORET" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="1.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="0.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NORET" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="NullPointer.cpp#main" item="main" val="5.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NOLLOCIM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="7.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="2.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="10.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="12.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="9.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NOLLOCIM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="9.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOPROTMIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOPLIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOPRIVMIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="0.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.CLLOCRIM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="0.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="1.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.CLLOCRIM" itemId="NullPointer.cpp#main" item="main" val="0.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="0.2" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="0.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.CLLOCRIM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="0.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="NullPointer.cpp#main" item="main" val="42.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HLENM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="20.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HLENM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="58.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="16.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="9.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="9.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="58.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="7.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="62.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="38.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HLENM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="38.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOBLIF" itemId="MemoryLeak.cpp" item="MemoryLeak.cpp" val="2.0" module="FlowAnalysisCpp" ln="1" locRef="3" />
+  <Metric id="METRIC.NOBLIF" itemId="NullPointer.cpp" item="NullPointer.cpp" val="3.0" module="FlowAnalysisCpp" ln="1" locRef="1" />
+  <Metric id="METRIC.NOBLIF" itemId="DeadLock.cpp" item="DeadLock.cpp" val="33.0" module="FlowAnalysisCpp" ln="1" locRef="4" />
+  <Metric id="METRIC.NOBLIF" itemId="DivisionByZero.cpp" item="DivisionByZero.cpp" val="1.0" module="FlowAnalysisCpp" ln="1" locRef="2" />
+  <Metric id="METRIC.NOMCIM" itemId="NullPointer.cpp#main" item="main" val="3.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NOMCIM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="2.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NOMCIM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="2.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="0.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="0.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="7.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="0.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="10.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="4.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NOMCIM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="4.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.CBO" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOCLIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOSLIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="1.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.HEFM" itemId="NullPointer.cpp#main" item="main" val="1607.6043259218002" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HEFM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="358.49625007211563" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HEFM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="4452.883226318996" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="276.29949895453484" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="47.374114309722074" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="47.374114309722074" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="2850.7034808611293" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="29.47722668160484" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="3200.9323108583844" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="472.1706443664444" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HEFM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="472.1706443664444" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOBLIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.MI" itemId="MemoryLeak.cpp#IOException" item="IOException" val="171.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOLLOCIF" itemId="MemoryLeak.cpp" item="MemoryLeak.cpp" val="7.0" module="FlowAnalysisCpp" ln="1" locRef="3" />
+  <Metric id="METRIC.NOLLOCIF" itemId="NullPointer.cpp" item="NullPointer.cpp" val="5.0" module="FlowAnalysisCpp" ln="1" locRef="1" />
+  <Metric id="METRIC.NOLLOCIF" itemId="DeadLock.cpp" item="DeadLock.cpp" val="44.0" module="FlowAnalysisCpp" ln="1" locRef="4" />
+  <Metric id="METRIC.NOLLOCIF" itemId="DivisionByZero.cpp" item="DivisionByZero.cpp" val="1.0" module="FlowAnalysisCpp" ln="1" locRef="2" />
+  <Metric id="METRIC.FO" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOMIT" itemId="MemoryLeak.cpp#IOException" item="IOException" val="0.0" module="FlowAnalysisCpp" ln="3" locRef="3" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="9.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NOSLIM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="4.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NOSLIM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="11.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="4.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="3.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="16.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="4.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NOSLIM" itemId="NullPointer.cpp#main" item="main" val="9.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="14.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="9.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOSLIM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="6.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="NullPointer.cpp#main" item="main" val="22.453316618246628" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HICM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="14.339850002884626" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HICM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="16.691357366460206" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="12.68722189076946" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="13.475303625876501" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="13.475303625876501" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="32.02493451497244" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="13.100989636268817" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="29.47496592745323" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="57.124614819380795" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HICM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="57.124614819380795" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOCLIF" itemId="MemoryLeak.cpp" item="MemoryLeak.cpp" val="0.0" module="FlowAnalysisCpp" ln="1" locRef="3" />
+  <Metric id="METRIC.NOCLIF" itemId="NullPointer.cpp" item="NullPointer.cpp" val="0.0" module="FlowAnalysisCpp" ln="1" locRef="1" />
+  <Metric id="METRIC.NOCLIF" itemId="DeadLock.cpp" item="DeadLock.cpp" val="5.0" module="FlowAnalysisCpp" ln="1" locRef="4" />
+  <Metric id="METRIC.NOCLIF" itemId="DivisionByZero.cpp" item="DivisionByZero.cpp" val="0.0" module="FlowAnalysisCpp" ln="1" locRef="2" />
+  <Metric id="METRIC.HVOLM" itemId="NullPointer.cpp#main" item="main" val="189.98960215439456" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.HVOLM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="71.69925001442313" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.HVOLM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="272.6255036521834" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="59.207035490257475" module="FlowAnalysisCpp" ln="58" locRef="4" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="25.26619429851844" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="25.26619429851844" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="302.14829520647913" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="19.651484454403228" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="307.1601712439863" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="164.2332676057198" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.HVOLM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="164.2332676057198" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#runGameThreads()" item="runGameThreads()" val="9.0" module="FlowAnalysisCpp" ln="134" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="DivisionByZero.cpp#getShapeRatio(Shape *, Shape *)" item="getShapeRatio(Shape *, Shape *)" val="4.0" module="FlowAnalysisCpp" ln="3" locRef="2" />
+  <Metric id="METRIC.NOPLIM" itemId="MemoryLeak.cpp#readIntegerArray(__sFILE64 *, int *)" item="readIntegerArray(__sFILE64 *, int *)" val="11.0" module="FlowAnalysisCpp" ln="5" locRef="3" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#GameLogic_Thread(void *)" item="GameLogic_Thread(void *)" val="5.0" module="FlowAnalysisCpp" ln="72" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#Render::draw(const Shape *)" item="Render::draw(const Shape *)" val="4.0" module="FlowAnalysisCpp" ns="Render" ln="110" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#Render::Render_Thread(void *)" item="Render::Render_Thread(void *)" val="17.0" module="FlowAnalysisCpp" ns="Render" ln="115" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#Controller_Thread(void *)" item="Controller_Thread(void *)" val="5.0" module="FlowAnalysisCpp" ln="78" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="NullPointer.cpp#main" item="main" val="10.0" module="FlowAnalysisCpp" ln="5" locRef="1" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#Physics::Physics_Thread(void *)" item="Physics::Physics_Thread(void *)" val="16.0" module="FlowAnalysisCpp" ns="Physics" ln="88" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#runGameThreads2()" item="runGameThreads2()" val="9.0" module="FlowAnalysisCpp" ln="144" locRef="4" />
+  <Metric id="METRIC.NOPLIM" itemId="DeadLock.cpp#assertion(int, const char *)" item="assertion(int, const char *)" val="6.0" module="FlowAnalysisCpp" ln="58" locRef="4" />
+</Values></Metrics>
