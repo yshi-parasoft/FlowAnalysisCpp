@@ -1,0 +1,40 @@
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=main; CC=2; SCC=2; MCC=2; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=main; SIGNATURE=main; NAMESPACE=; PARAMNO=2; DEF=true; START_LINE=5; END_LINE=14; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=main; NBD=1; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=SBSBSSSSSSSBSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

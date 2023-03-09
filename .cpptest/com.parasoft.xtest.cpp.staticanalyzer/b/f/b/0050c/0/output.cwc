@@ -1,0 +1,400 @@
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-MCPP-08_b
+<b>The return type of the 'getShapeRatio' function should be declared as 'auto'
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-04
+<b>The definition of the 'getShapeRatio' function is not preceded by a comment
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>METRICS-19
+<b>Percentage of comment lines vs. all method's lines is: 0
+<l>4
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>MISRA-023
+<b>Function 'getShapeRatio' has external linkage and is not declared in the header
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>NAMING-44
+<b>The name 'getShapeRatio' should be composed only of lowercase letters
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-CPP-36
+<b>Global function 'getShapeRatio' is declared in global namespace
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared: shape1
+<l>3
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared: shape2
+<l>3
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared: shape1
+<l>3
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared: shape2
+<l>3
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-14
+<b>The 'getShapeRatio' function should be preceded by a comment that contains the '@brief' tag
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-14_b
+<b>The 'shape1' parameter does not have a corresponding '@param' tag in the comment before the function declaration
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-14_b
+<b>The 'shape2' parameter does not have a corresponding '@param' tag in the comment before the function declaration
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-14_b
+<b>The 'getShapeRatio' function should be preceded by a comment that contains the '@return' tag
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>METRICS-31
+<b>The assertion density is lower than two assertions per function
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>MISRA-013
+<b>The basic numerical type 'double' should not be used
+<l>3
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>NAMING-03
+<b>The filename 'DivisionByZero.cpp' should be in lowercase
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>NAMING-38
+<b>Implementation file 'DivisionByZero.cpp' should have the file name extension ".cc"
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>PFO-04
+<b>Implementation file 'DivisionByZero.cpp' should declare a local constant string that begins from characters "@(#)" 
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'shape1' as const
+<l>3
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'shape2' as const
+<l>3
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-86
+<b>Parameter 'shape1' is not validated before use
+<l>3
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>CODSTA-86
+<b>Parameter 'shape2' is not validated before use
+<l>3
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>FORMAT-28
+<b>Return type is not placed in line before function 'getShapeRatio'
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>METRICS-29
+<b>Function 'getShapeRatio' has Cyclomatic Complexity value: 1
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>METRICS-33
+<b>Function 'getShapeRatio' has Essential Complexity value: 1
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>MISRA2004-16_7
+<b>Pass parameter "shape1" with const specifier
+<l>3
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>MISRA2004-16_7
+<b>Pass parameter "shape2" with const specifier
+<l>3
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>NAMING-17
+<b>Naming convention not followed: getShapeRatio
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>NAMING-HN-34
+<b>The 'shape1' identifier should have the 'p' prefix
+<l>3
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>NAMING-HN-34
+<b>The 'shape2' identifier should have the 'p' prefix
+<l>3
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-10
+<b>floating-point arithmetic is not documented
+<l>5
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-02
+<b>Add comment containing the copyright information at the begin of file 'DivisionByZero.cpp'
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>COMMENT-03
+<b>Add comment containing the information on the file at the begin of file 'DivisionByZero.cpp'
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>5
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>FORMAT-25_b
+<b>'return' statement should be used with parenthesis
+<l>5
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "Shapes.hpp"
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "Shapes.hpp"
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'double' should not be used
+<l>3
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>3
+<k>1
+<s>false
+<N>
+<f>
+<L>0

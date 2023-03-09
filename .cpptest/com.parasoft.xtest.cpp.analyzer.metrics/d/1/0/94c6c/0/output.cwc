@@ -1,0 +1,730 @@
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=assertion(int, const char *); OPERATORS=8; OPERANDS=8; UNIQUE_OPERATORS=7; UNIQUE_OPERANDS=6
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=GameLogic_Thread(void *); OPERATORS=4; OPERANDS=5; UNIQUE_OPERATORS=3; UNIQUE_OPERANDS=4
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=Controller_Thread(void *); OPERATORS=4; OPERANDS=5; UNIQUE_OPERATORS=3; UNIQUE_OPERANDS=4
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=Physics::Physics_Thread(void *); OPERATORS=27; OPERANDS=31; UNIQUE_OPERATORS=14; UNIQUE_OPERANDS=23
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=Render::draw(const Shape *); OPERATORS=3; OPERANDS=4; UNIQUE_OPERATORS=3; UNIQUE_OPERANDS=4
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=Render::Render_Thread(void *); OPERATORS=29; OPERANDS=33; UNIQUE_OPERATORS=12; UNIQUE_OPERANDS=19
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=runGameThreads(); OPERATORS=15; OPERANDS=23; UNIQUE_OPERATORS=4; UNIQUE_OPERANDS=16
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=runGameThreads2(); OPERATORS=15; OPERANDS=23; UNIQUE_OPERATORS=4; UNIQUE_OPERANDS=16
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=assertion(int, const char *); NOMCIM=0; TEMPLATE_FUNC=
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=GameLogic_Thread(void *); NOMCIM=0; TEMPLATE_FUNC=
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=Controller_Thread(void *); NOMCIM=0; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=Physics::Physics_Thread(void *); NOMCIM=7; TEMPLATE_FUNC=
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=Render::draw(const Shape *); NOMCIM=0; TEMPLATE_FUNC=
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=Render::Render_Thread(void *); NOMCIM=10; TEMPLATE_FUNC=
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=runGameThreads(); NOMCIM=4; TEMPLATE_FUNC=
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=runGameThreads2(); NOMCIM=4; TEMPLATE_FUNC=
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=assertion(int, const char *); CC=2; SCC=2; MCC=2; TEMPLATE_FUNC=
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=assertion(int, const char *); NIF=1; TEMPLATE_FUNC=
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=assertion(int, const char *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=assertion; SIGNATURE=assertion(int, const char *); NAMESPACE=; PARAMNO=2; DEF=true; START_LINE=58; END_LINE=63; TEMPLATE_FUNC=
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=assertion(int, const char *); LLIMF=2; TEMPLATE_FUNC=
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=assertion(int, const char *); NBD=1; TEMPLATE_FUNC=
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=assertion(int, const char *); NORET=0; TEMPLATE_FUNC=
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=GameLogic_Thread(void *); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=GameLogic_Thread(void *); NIF=0; TEMPLATE_FUNC=
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=GameLogic_Thread(void *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=GameLogic_Thread; SIGNATURE=GameLogic_Thread(void *); NAMESPACE=; PARAMNO=1; DEF=true; START_LINE=72; END_LINE=76; TEMPLATE_FUNC=
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=GameLogic_Thread(void *); LLIMF=1; TEMPLATE_FUNC=
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=GameLogic_Thread(void *); NBD=0; TEMPLATE_FUNC=
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=GameLogic_Thread(void *); NORET=1; TEMPLATE_FUNC=
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=Controller_Thread(void *); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=Controller_Thread(void *); NIF=0; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=Controller_Thread(void *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=Controller_Thread; SIGNATURE=Controller_Thread(void *); NAMESPACE=; PARAMNO=1; DEF=true; START_LINE=78; END_LINE=82; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=Controller_Thread(void *); LLIMF=1; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=Controller_Thread(void *); NBD=0; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=Controller_Thread(void *); NORET=1; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=Physics::Physics_Thread(void *); CC=3; SCC=3; MCC=3; TEMPLATE_FUNC=
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=Physics::Physics_Thread(void *); NIF=0; TEMPLATE_FUNC=
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=Physics::Physics_Thread(void *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=Physics_Thread; SIGNATURE=Physics::Physics_Thread(void *); NAMESPACE=Physics; PARAMNO=1; DEF=true; START_LINE=88; END_LINE=103; TEMPLATE_FUNC=
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=Physics::Physics_Thread(void *); LLIMF=10; TEMPLATE_FUNC=
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=Physics::Physics_Thread(void *); NBD=2; TEMPLATE_FUNC=
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=Physics::Physics_Thread(void *); NORET=1; TEMPLATE_FUNC=
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=Render::draw(const Shape *); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=Render::draw(const Shape *); NIF=0; TEMPLATE_FUNC=
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=Render::draw(const Shape *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=draw; SIGNATURE=Render::draw(const Shape *); NAMESPACE=Render; PARAMNO=1; DEF=true; START_LINE=110; END_LINE=113; TEMPLATE_FUNC=
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=Render::draw(const Shape *); LLIMF=0; TEMPLATE_FUNC=
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=Render::draw(const Shape *); NBD=0; TEMPLATE_FUNC=
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=Render::draw(const Shape *); NORET=0; TEMPLATE_FUNC=
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=Render::Render_Thread(void *); CC=3; SCC=3; MCC=3; TEMPLATE_FUNC=
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=Render::Render_Thread(void *); NIF=0; TEMPLATE_FUNC=
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=Render::Render_Thread(void *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=Render_Thread; SIGNATURE=Render::Render_Thread(void *); NAMESPACE=Render; PARAMNO=1; DEF=true; START_LINE=115; END_LINE=131; TEMPLATE_FUNC=
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=Render::Render_Thread(void *); LLIMF=12; TEMPLATE_FUNC=
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=Render::Render_Thread(void *); NBD=2; TEMPLATE_FUNC=
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=Render::Render_Thread(void *); NORET=1; TEMPLATE_FUNC=
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=runGameThreads(); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=runGameThreads(); NIF=0; TEMPLATE_FUNC=
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=runGameThreads(); ECC=1; TEMPLATE_FUNC=[empty]
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=runGameThreads; SIGNATURE=runGameThreads(); NAMESPACE=; PARAMNO=0; DEF=true; START_LINE=134; END_LINE=142; TEMPLATE_FUNC=
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=runGameThreads(); LLIMF=9; TEMPLATE_FUNC=
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=runGameThreads(); NBD=0; TEMPLATE_FUNC=
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=runGameThreads(); NORET=0; TEMPLATE_FUNC=
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=runGameThreads2(); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=runGameThreads2(); NIF=0; TEMPLATE_FUNC=
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=runGameThreads2(); ECC=1; TEMPLATE_FUNC=[empty]
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=runGameThreads2; SIGNATURE=runGameThreads2(); NAMESPACE=; PARAMNO=0; DEF=true; START_LINE=144; END_LINE=152; TEMPLATE_FUNC=
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=runGameThreads2(); LLIMF=9; TEMPLATE_FUNC=
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=runGameThreads2(); NBD=0; TEMPLATE_FUNC=
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=runGameThreads2(); NORET=0; TEMPLATE_FUNC=
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=SBSBSBSSSBSSSBSBSBSBSSBSBSSSBSSSSBSBSBSBSBSSSBSSSBSBSBSSBSSSSSSBSBSSSSBSSCSSBSSCSSBSSSBSSSSSSSSCCSSSSSSSBSSSBSSCSBSSSSSSBSSSSSSSSSSSBSSSSSSSSSBSSSSSSSSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

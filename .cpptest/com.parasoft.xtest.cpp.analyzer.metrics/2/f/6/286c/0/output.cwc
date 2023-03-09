@@ -1,0 +1,100 @@
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=main; OPERATORS=20; OPERANDS=22; UNIQUE_OPERATORS=10; UNIQUE_OPERANDS=13
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=main; NOMCIM=3; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=main; CC=2; SCC=2; MCC=2; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=main; NIF=1; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=main; ECC=1; TEMPLATE_FUNC=[empty]
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=main; SIGNATURE=main; NAMESPACE=; PARAMNO=2; DEF=true; START_LINE=5; END_LINE=14; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=main; LLIMF=5; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=main; NBD=1; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=main; NORET=1; TEMPLATE_FUNC=
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\NullPointer.cpp
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=SBSBSSSSSSSBSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

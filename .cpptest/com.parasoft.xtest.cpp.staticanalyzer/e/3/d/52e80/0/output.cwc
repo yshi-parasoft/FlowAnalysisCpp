@@ -1,0 +1,700 @@
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-MCPP-38
+<b>The definition of the 'point' variable should contain a braced initializer
+<l>7
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-26
+<b>Literal constant '3' is used
+<l>8
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-26
+<b>Literal constant '2' is used
+<l>9
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-04
+<b>The definition of the 'main' function is not preceded by a comment
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>METRICS-19
+<b>Percentage of comment lines vs. all method's lines is: 0
+<l>6
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>MISRA2004-20_4
+<b>'new' operator should not be used
+<l>9
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>NAMING-45
+<b>The identifier 'point' differs only by case from identifier 'Point' declared in file 'Point.hpp'
+<l>7
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-CPP-63
+<b>Variable 'point' of pointer type is initialized with '0'
+<l>7
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>7
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-131
+<b>Variable 'point' of pointer type is initialized with '0'
+<l>7
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-89
+<b>Declaration of variable 'argv' contains more than one level of pointer indirection
+<l>5
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: point
+<l>7
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared: argv
+<l>5
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: point
+<l>7
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared: argv
+<l>5
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-14
+<b>The 'main' function should be preceded by a comment that contains the '@brief' tag
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-14_b
+<b>The 'argc' parameter does not have a corresponding '@param' tag in the comment before the function declaration
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-14_b
+<b>The 'argv' parameter does not have a corresponding '@param' tag in the comment before the function declaration
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-14_b
+<b>The 'main' function should be preceded by a comment that contains the '@return' tag
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>METRICS-31
+<b>The assertion density is lower than two assertions per function
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>5
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>MISRA-013
+<b>The basic numerical type 'char' should not be used
+<l>5
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>NAMING-03
+<b>The filename 'NullPointer.cpp' should be in lowercase
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>NAMING-38
+<b>Implementation file 'NullPointer.cpp' should have the file name extension ".cc"
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>NAMING-47
+<b>Identifier name: 'point' differs only by case from its type name: 'Point'
+<l>7
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>PFO-04
+<b>Implementation file 'NullPointer.cpp' should declare a local constant string that begins from characters "@(#)" 
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>PORT-13
+<b>'main' shall be declared as unsigned int or signed int
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>PORT-13
+<b>'argc' shall be declared as unsigned int or signed int
+<l>5
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'argc' as const
+<l>5
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-142
+<b>Parameter 'argv' with array type was found in 'main' function declaration
+<l>5
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-23
+<b>The 'if' statement doesn't have an 'else' clause
+<l>8
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-86
+<b>Parameter 'argv' is not validated before use
+<l>5
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-86
+<b>Parameter 'argv' is not validated before use
+<l>5
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>EXCEPT-06
+<b>The 'main' function does not contain a catch(...) to catch all unhandled exceptions
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-28
+<b>Return type is not placed in line before function 'main'
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>METRICS-29
+<b>Function 'main' has Cyclomatic Complexity value: 2
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>METRICS-33
+<b>Function 'main' has Essential Complexity value: 1
+<l>5
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>MRM-18
+<b>Locally allocated memory is not deleted locally for : point
+<l>7
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>SECURITY-35
+<b>No value of command line should be trusted: argc
+<l>8
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>SECURITY-35
+<b>No value of command line should be trusted: argv
+<l>9
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>SECURITY-35
+<b>No value of command line should be trusted: argv
+<l>9
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>SECURITY-35
+<b>No value of command line should be trusted: argv
+<l>9
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>SECURITY-35
+<b>No value of command line should be trusted: argv
+<l>9
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>SECURITY-35
+<b>No value of command line should be trusted: argv
+<l>9
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>SECURITY-35
+<b>No value of command line should be trusted: argv
+<l>9
+<k>41
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>NAMING-HN-22
+<b>The 'argc' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>5
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>NAMING-HN-30
+<b>The 'argc' identifier should have the 'n' prefix followed by a capital letter or an underscore
+<l>5
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>NAMING-HN-43
+<b>The 'argc' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>5
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-05
+<b>The 'point' variable should be commented
+<l>7
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-42
+<b>Put the opening brace '{' on its own line
+<l>8
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-43
+<b>Opening '{' and closing '}' braces are not placed in the same column
+<l>8
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>MRM-34
+<b>Check the return value of new
+<l>9
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>MISRA2004-20_10
+<b>Usage of 'atoi' function is not allowed
+<l>9
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>MISRA2004-20_10
+<b>Usage of 'atoi' function is not allowed
+<l>9
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>CODSTA-CPP-59
+<b>Instead of C library header '<stdlib.h>' the corresponding C++ library header should be used
+<l>3
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-02
+<b>Add comment containing the copyright information at the begin of file 'NullPointer.cpp'
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>COMMENT-03
+<b>Add comment containing the information on the file at the begin of file 'NullPointer.cpp'
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>7
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>8
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>9
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>9
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>10
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>11
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>12
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>13
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-25_b
+<b>'return' statement should be used with parenthesis
+<l>13
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>HICPP-17_2_1-a
+<b>Ensure that C Standard Library is securely used
+<l>3
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "Point.hpp"
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "Point.hpp"
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\NullPointer.cpp
+<c>FORMAT-02
+<b>Put the opening brace '{' on its own line
+<l>8
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

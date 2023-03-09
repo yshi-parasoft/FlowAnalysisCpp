@@ -1,0 +1,100 @@
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=getShapeRatio(Shape *, Shape *); OPERATORS=10; OPERANDS=10; UNIQUE_OPERATORS=6; UNIQUE_OPERANDS=6
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=getShapeRatio(Shape *, Shape *); NOMCIM=2; TEMPLATE_FUNC=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=getShapeRatio(Shape *, Shape *); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=getShapeRatio(Shape *, Shape *); NIF=0; TEMPLATE_FUNC=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=getShapeRatio(Shape *, Shape *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=getShapeRatio; SIGNATURE=getShapeRatio(Shape *, Shape *); NAMESPACE=; PARAMNO=2; DEF=true; START_LINE=3; END_LINE=6; TEMPLATE_FUNC=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=getShapeRatio(Shape *, Shape *); LLIMF=1; TEMPLATE_FUNC=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=getShapeRatio(Shape *, Shape *); NBD=0; TEMPLATE_FUNC=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=getShapeRatio(Shape *, Shape *); NORET=1; TEMPLATE_FUNC=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\SonarQube\cpptest\examples\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=SBSSSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

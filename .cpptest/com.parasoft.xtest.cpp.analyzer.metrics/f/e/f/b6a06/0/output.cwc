@@ -1,0 +1,50 @@
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-TYPES
+<b>CLASS=IOException; NAMESPACE=; TEMPLATE_TYPE=; TAG=class
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); CC=3; SCC=3; MCC=3; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=readIntegerArray; SIGNATURE=readIntegerArray(__sFILE64 *, int *); NAMESPACE=; PARAMNO=2; DEF=true; START_LINE=5; END_LINE=15; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); NBD=2; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\cpptest\examples\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=SBSBSSSSSSSSSSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

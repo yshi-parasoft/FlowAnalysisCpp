@@ -1,0 +1,100 @@
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='getShapeRatio(Shape *, Shape *)', EXTERN_LINKAGE_FUNC_RET_TYPE=['double']
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-ONEFILEDECL
+<b>EXTERN_LINKAGE_FUNC_FIRST_DECL='getShapeRatio(Shape *, Shape *)'
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=shape1 QUALIFICATION=
+<l>3
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=shape2 QUALIFICATION=
+<l>3
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=getShapeRatio QUALIFICATION=
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-UNUSEDFUNC
+<b>EXTERN_LINKAGE_FUN_USED='Shape::getArea() const'
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='getShapeRatio(Shape *, Shape *)'
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>NONSTATIC_FUNC=getShapeRatio QUALIFICATION= MANGLED_FUN_NAME=_Z13getShapeRatioP5ShapeS0_@def
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-EXCEPTSPECDECL
+<b>EXTERN_LINKAGE_FUNCTION_DECL='getShapeRatio(Shape *, Shape *)', EXCEPTION_SPECIFICATION=''
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DivisionByZero.cpp
+<c>INTERNAL-GLOBAL-EXTFUNCDEF
+<b>EXTERN_FUNC_DEF='getShapeRatio(Shape *, Shape *)' EXTERN_FUNC_NAME='getShapeRatio' IS_TEMPLATE='F'
+<l>3
+<k>8
+<s>false
+<N>
+<f>
+<L>0

@@ -1,0 +1,150 @@
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); OPERATORS=30; OPERANDS=28; UNIQUE_OPERATORS=14; UNIQUE_OPERANDS=12
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-NOMCIM
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); NOMCIM=2; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-FO
+<b>CLASS=IOException; FO_USED_TYPES=; TEMPLATE_TYPE=
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-ID
+<b>CLASS=IOException; ID=0; TEMPLATE_TYPE=
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-NOMEMIT
+<b>CLASS=IOException; NOPUBMIT=0; NOPROTMIT=0; NOPRIVTMIT=0; TEMPLATE_TYPE=
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-TYPES
+<b>CLASS=IOException; NAMESPACE=; TEMPLATE_TYPE=; TAG=class
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-TYPE_START_END_CPP
+<b>CLASS=IOException; START_LINE=3; END_LINE=3
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); CC=3; SCC=3; MCC=3; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); NIF=1; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); ECC=1; TEMPLATE_FUNC=[empty]
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=readIntegerArray; SIGNATURE=readIntegerArray(__sFILE64 *, int *); NAMESPACE=; PARAMNO=2; DEF=true; START_LINE=5; END_LINE=15; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); LLIMF=7; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); NBD=2; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=readIntegerArray(__sFILE64 *, int *); NORET=1; TEMPLATE_FUNC=
+<l>5
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\MemoryLeak.cpp
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=SBSBSSSSSSSSSSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

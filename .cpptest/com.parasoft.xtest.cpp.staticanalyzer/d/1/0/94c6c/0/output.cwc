@@ -1,0 +1,7450 @@
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PARSER-REMARK
+<b>R-828: parameter "object" was never referenced
+<l>110
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>75
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>81
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-66
+<b>C-style cast to 'void *' type is used
+<l>75
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-66
+<b>C-style cast to 'void *' type is used
+<l>81
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>138
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>139
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>140
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>141
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>148
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>149
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>150
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-96
+<b>Do not assing the pointer to the function with C++ language linkage to the pointer to the function with C language linkage
+<l>151
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-08_b
+<b>The return type of the 'GameLogic_Thread' function should be declared as 'auto'
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-08_b
+<b>The return type of the 'Controller_Thread' function should be declared as 'auto'
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-32
+<b>The declaration of variable 'ring' contains a non-constant initializer
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-38
+<b>The definition of the 'ring' variable should contain a braced initializer
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-38
+<b>The definition of the 'i' variable should contain a braced initializer
+<l>91
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-38
+<b>The definition of the 'position' variable should contain a braced initializer
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-38
+<b>The definition of the 'i' variable should contain a braced initializer
+<l>122
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-203
+<b>The string literal is embedded directly in the code: Participant is out of ring
+<l>95
+<k>40
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'assertion' function is not preceded by a comment
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'GameLogic_Thread' function is not preceded by a comment
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'Controller_Thread' function is not preceded by a comment
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'Physics_Thread' function is not preceded by a comment
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'draw' function is not preceded by a comment
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'Render_Thread' function is not preceded by a comment
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'runGameThreads' function is not preceded by a comment
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-04
+<b>The definition of the 'runGameThreads2' function is not preceded by a comment
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-03
+<b>The variable "participantsCount" was not initialized when declared
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-03
+<b>The variable "exitGame" was not initialized when declared
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-19
+<b>Percentage of comment lines vs. all method's lines is: 0
+<l>59
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-19
+<b>Percentage of comment lines vs. all method's lines is: 13
+<l>89
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-19
+<b>Percentage of comment lines vs. all method's lines is: 0
+<l>116
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-19
+<b>Percentage of comment lines vs. all method's lines is: 0
+<l>135
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-19
+<b>Percentage of comment lines vs. all method's lines is: 0
+<l>145
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-10_1_a
+<b>Implicit conversion between signed and unsigned type in the function call on argument '1' shall not be used
+<l>100
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-10_1_a
+<b>Implicit conversion between signed and unsigned type in the function call on argument '1' shall not be used
+<l>128
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Global variable 'ring' has external linkage and is not declared in the header
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Global variable 'participants' has external linkage and is not declared in the header
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Global variable 'participantsCount' has external linkage and is not declared in the header
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Global variable 'exitGame' has external linkage and is not declared in the header
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Global variable 'velocityArray' has external linkage and is not declared in the header
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Global variable 'currentCameraVelocity' has external linkage and is not declared in the header
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'assertion' has external linkage and is not declared in the header
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'GameLogic_Thread' has external linkage and is not declared in the header
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'Controller_Thread' has external linkage and is not declared in the header
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'Physics_Thread' has external linkage and is not declared in the header
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'draw' has external linkage and is not declared in the header
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'Render_Thread' has external linkage and is not declared in the header
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'runGameThreads' has external linkage and is not declared in the header
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-023
+<b>Function 'runGameThreads2' has external linkage and is not declared in the header
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'GameLogic_Thread' should be composed only of lowercase letters
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'Controller_Thread' should be composed only of lowercase letters
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'Physics_Thread' should be composed only of lowercase letters
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'Render_Thread' should be composed only of lowercase letters
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'runGameThreads' should be composed only of lowercase letters
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'runGameThreads2' should be composed only of lowercase letters
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'changePositionMutex' should be composed only of lowercase letters
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'participantsCount' should be composed only of lowercase letters
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'exitGame' should be composed only of lowercase letters
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'velocityArray' should be composed only of lowercase letters
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-44
+<b>The name 'currentCameraVelocity' should be composed only of lowercase letters
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-03
+<b>Parameter 'object' is not used
+<l>110
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-31
+<b>Parameter 'object' is not used
+<l>110
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PB-76
+<b>The string literal should not be passed as an argument of the 'const char *' type in the 'assertion' function call
+<l>95
+<k>40
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>STL-37
+<b>The 'participants' array should not be used
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>STL-37
+<b>The 'velocityArray' array should not be used
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global function 'assertion' is declared in global namespace
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global function 'GameLogic_Thread' is declared in global namespace
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global function 'Controller_Thread' is declared in global namespace
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global function 'runGameThreads' is declared in global namespace
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global function 'runGameThreads2' is declared in global namespace
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global variable 'changePositionMutex' is declared in global namespace
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global variable 'ring' is declared in global namespace
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global variable 'participants' is declared in global namespace
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global variable 'participantsCount' is declared in global namespace
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-36
+<b>Global variable 'exitGame' is declared in global namespace
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-63
+<b>Function with pointer return type returns '0'
+<l>102
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-63
+<b>Function with pointer return type returns '0'
+<l>130
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>138
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>138
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>139
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>139
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>140
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>140
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>141
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>141
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>148
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>148
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>149
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>149
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>150
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>150
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>151
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>151
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>75
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>81
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>102
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>130
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-08_a
+<b>The 'position' variable should be declared with the 'auto&' type specifier
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-11_b_cpp11
+<b>Consider using 'constexpr' for the 'GameLogic_Thread' function
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-11_b_cpp11
+<b>Consider using 'constexpr' for the 'Controller_Thread' function
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>Function with pointer return type returns '0'
+<l>102
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>Function with pointer return type returns '0'
+<l>130
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>138
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>138
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>139
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>139
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>140
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>140
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>141
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>141
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>148
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>148
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>149
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>149
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>150
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>150
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '2' argument to function 'pthread_create' 
+<l>151
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-131
+<b>The value '0' is passed as '4' argument to function 'pthread_create' 
+<l>151
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-89
+<b>Declaration of variable 'participants' contains more than one level of pointer indirection
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-89
+<b>Declaration of variable 'velocityArray' contains more than one level of pointer indirection
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-89
+<b>Declaration of variable 'participants' contains more than one level of pointer indirection
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-89
+<b>Declaration of variable 'velocityArray' contains more than one level of pointer indirection
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-89
+<b>Declaration of variable 'participants' contains more than one level of pointer indirection
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-89
+<b>Declaration of variable 'participants' contains more than one level of pointer indirection
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: changePositionMutex
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: participants
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: velocityArray
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: currentCameraVelocity
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread1
+<l>137
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread2
+<l>137
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread3
+<l>137
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread4
+<l>137
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread1
+<l>147
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread2
+<l>147
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread3
+<l>147
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The variable of pointer or array type is declared: thread4
+<l>147
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared: message
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared: object
+<l>110
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared
+<l>72
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared
+<l>78
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared
+<l>88
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>The parameter of pointer or array type is declared
+<l>115
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>Function 'GameLogic_Thread' returns a pointer type
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>Function 'Controller_Thread' returns a pointer type
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>Function 'Physics_Thread' returns a pointer type
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-94
+<b>Function 'Render_Thread' returns a pointer type
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: changePositionMutex
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: participants
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: velocityArray
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: currentCameraVelocity
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread1
+<l>137
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread2
+<l>137
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread3
+<l>137
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread4
+<l>137
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread1
+<l>147
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread2
+<l>147
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread3
+<l>147
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The variable of pointer type is declared: thread4
+<l>147
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared: message
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared: object
+<l>110
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared
+<l>72
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared
+<l>78
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared
+<l>88
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>The parameter of pointer type is declared
+<l>115
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>Function 'GameLogic_Thread' returns a pointer type
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>Function 'Controller_Thread' returns a pointer type
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>Function 'Physics_Thread' returns a pointer type
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-95
+<b>Function 'Render_Thread' returns a pointer type
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'assertion' function should be preceded by a comment that contains the '@brief' tag
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'GameLogic_Thread' function should be preceded by a comment that contains the '@brief' tag
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'Controller_Thread' function should be preceded by a comment that contains the '@brief' tag
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'Physics_Thread' function should be preceded by a comment that contains the '@brief' tag
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'draw' function should be preceded by a comment that contains the '@brief' tag
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'Render_Thread' function should be preceded by a comment that contains the '@brief' tag
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'runGameThreads' function should be preceded by a comment that contains the '@brief' tag
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14
+<b>The 'runGameThreads2' function should be preceded by a comment that contains the '@brief' tag
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14_b
+<b>The 'condition' parameter does not have a corresponding '@param' tag in the comment before the function declaration
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14_b
+<b>The 'message' parameter does not have a corresponding '@param' tag in the comment before the function declaration
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14_b
+<b>The 'GameLogic_Thread' function should be preceded by a comment that contains the '@return' tag
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14_b
+<b>The 'Controller_Thread' function should be preceded by a comment that contains the '@return' tag
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14_b
+<b>The 'Physics_Thread' function should be preceded by a comment that contains the '@return' tag
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14_b
+<b>The 'object' parameter does not have a corresponding '@param' tag in the comment before the function declaration
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-14_b
+<b>The 'Render_Thread' function should be preceded by a comment that contains the '@return' tag
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-29
+<b>Declare variable 'thread2' in a separate line
+<l>137
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-29
+<b>Declare variable 'thread3' in a separate line
+<l>137
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-29
+<b>Declare variable 'thread4' in a separate line
+<l>137
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-29
+<b>Declare variable 'thread2' in a separate line
+<l>147
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-29
+<b>Declare variable 'thread3' in a separate line
+<l>147
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-29
+<b>Declare variable 'thread4' in a separate line
+<l>147
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-32
+<b>The operator '*', used for 'participants' declaration, should be directly connected with the type
+<l>68
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-32
+<b>The operator '*', used for 'velocityArray' declaration, should be directly connected with the type
+<l>86
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-32
+<b>The operator '*', used for 'currentCameraVelocity' declaration, should be directly connected with the type
+<l>108
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-32
+<b>The operator '*', used for 'object' declaration, should be directly connected with the type
+<l>110
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-33
+<b>Declare variable 'thread2' in a separate declaration statement
+<l>137
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-33
+<b>Declare variable 'thread3' in a separate declaration statement
+<l>137
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-33
+<b>Declare variable 'thread4' in a separate declaration statement
+<l>137
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-33
+<b>Declare variable 'thread2' in a separate declaration statement
+<l>147
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-33
+<b>Declare variable 'thread3' in a separate declaration statement
+<l>147
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-33
+<b>Declare variable 'thread4' in a separate declaration statement
+<l>147
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-15_1_1-a
+<b>Throw only instances of std::exception
+<l>61
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-4_2_1-a
+<b>A 'U' suffix shall be applied to constant: 20
+<l>100
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-4_2_1-a
+<b>A 'U' suffix shall be applied to constant: 20
+<l>128
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'changePositionMutex' uninitialized when declared
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'currentCameraVelocity' uninitialized when declared
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread1' uninitialized when declared
+<l>137
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread2' uninitialized when declared
+<l>137
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread3' uninitialized when declared
+<l>137
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread4' uninitialized when declared
+<l>137
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread1' uninitialized when declared
+<l>147
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread2' uninitialized when declared
+<l>147
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread3' uninitialized when declared
+<l>147
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>INIT-04
+<b>Pointer variable 'thread4' uninitialized when declared
+<l>147
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-31
+<b>The assertion density is lower than two assertions per function
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>30
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>35
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>37
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>39
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>58
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'char' should not be used
+<l>58
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>69
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>70
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>91
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-013
+<b>The basic numerical type 'int' should not be used
+<l>122
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-03
+<b>The filename 'DeadLock.cpp' should be in lowercase
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-38
+<b>Implementation file 'DeadLock.cpp' should have the file name extension ".cc"
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PFO-04
+<b>Implementation file 'DeadLock.cpp' should declare a local constant string that begins from characters "@(#)" 
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PORT-13
+<b>'participantsCount' shall be declared as unsigned int or signed int
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PORT-13
+<b>'exitGame' shall be declared as unsigned int or signed int
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PORT-13
+<b>'i' shall be declared as unsigned int or signed int
+<l>91
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PORT-13
+<b>'i' shall be declared as unsigned int or signed int
+<l>122
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PORT-13
+<b>'condition' shall be declared as unsigned int or signed int
+<l>58
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'condition' as const
+<l>58
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'message' as const
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-67
+<b>The operand of logical operator '!' has 'int' type instead of 'bool' type
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-23
+<b>The 'if' statement doesn't have an 'else' clause
+<l>60
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-46
+<b>In 'assertion' function use positive logic rather than negative logic whenever possible
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-86
+<b>Parameter 'message' is not validated before use
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>EXCEPT-05
+<b>c++ exception handling structure is used in function 'assertion'
+<l>61
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>EXCEPT-09
+<b>Exception of type 'const char *' is thrown by pointer; throw by value instead
+<l>61
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-28
+<b>Return type is not placed in line before function 'assertion'
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'assertion' has Cyclomatic Complexity value: 2
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'assertion' has Essential Complexity value: 1
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-12_6_a
+<b>The operand of logical operator '!' is not 'effectively Boolean'
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-17
+<b>Naming convention not followed: assertion
+<l>58
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-22
+<b>The 'condition' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>58
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-30
+<b>The 'condition' identifier should have the 'n' prefix followed by a capital letter or an underscore
+<l>58
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-43
+<b>The 'condition' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>58
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-05
+<b>The 'message' identifier should have the 'c' prefix followed by a capital letter or an underscore
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-09
+<b>The 'message' identifier should have the 'c' prefix followed by a capital letter or an underscore
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-10
+<b>The 'message' identifier should have the 'c' prefix followed by a capital letter or an underscore
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-34
+<b>The 'message' identifier should have the 'p' prefix
+<l>58
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-42
+<b>Put the opening brace '{' on its own line
+<l>60
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-43
+<b>Opening '{' and closing '}' braces are not placed in the same column
+<l>60
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-18
+<b>'changePositionMutex' should be encapsulated in a class
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-50
+<b>The 'static' keyword is used in 'changePositionMutex' variable declaration
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-82
+<b>Consider encapsulating 'changePositionMutex'
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'changePositionMutex' variable should be commented
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "changePositionMutex" with static storage duration is not allowed
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-022
+<b>Global variable 'changePositionMutex' is declared
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-18
+<b>Naming convention not followed: changePositionMutex
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-38
+<b>The 'changePositionMutex' identifier should have the 's' prefix
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-18
+<b>'ring' should be encapsulated in a class
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-82
+<b>Consider encapsulating 'ring'
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'ring' variable should be commented
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>EXCEPT-08
+<b>The 'Point' constructor called during the creation of the 'ring' object should be declared as exception-safe
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "ring" with static storage duration is not allowed
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_8-a
+<b>Variable 'ring' should be declared using 'auto' specifier
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-022
+<b>Global variable 'ring' is declared
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-18
+<b>Naming convention not followed: ring
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-10_1_b
+<b>Implicit conversion from integral to floating type in function's argument
+<l>67
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-10_1_b
+<b>Implicit conversion from integral to floating type in function's argument
+<l>67
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PB-11
+<b>The type 'int' of function argument number '2' does not match declared type 'double'
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PORT-16
+<b>Argument type conversion from "shorter" type to "longer" type
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-18
+<b>'participants' should be encapsulated in a class
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-82
+<b>Consider encapsulating 'participants'
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'participants' variable should be commented
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "participants" with static storage duration is not allowed
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-022
+<b>Global variable 'participants' is declared
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-18
+<b>Naming convention not followed: participants
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-01
+<b>The 'participants' identifier should have the 'rg' prefix
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-18
+<b>'participantsCount' should be encapsulated in a class
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-82
+<b>Consider encapsulating 'participantsCount'
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'participantsCount' variable should be commented
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "participantsCount" with static storage duration is not allowed
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-022
+<b>Global variable 'participantsCount' is declared
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-18
+<b>Naming convention not followed: participantsCount
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-19
+<b>Naming convention not followed: participantsCount
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-22
+<b>The 'participantsCount' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-30
+<b>The 'participantsCount' identifier should have the 'n' prefix followed by a capital letter or an underscore
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-43
+<b>The 'participantsCount' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-18
+<b>'exitGame' should be encapsulated in a class
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-82
+<b>Consider encapsulating 'exitGame'
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'exitGame' variable should be commented
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "exitGame" with static storage duration is not allowed
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-022
+<b>Global variable 'exitGame' is declared
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-18
+<b>Naming convention not followed: exitGame
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-19
+<b>Naming convention not followed: exitGame
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-22
+<b>The 'exitGame' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-30
+<b>The 'exitGame' identifier should have the 'n' prefix followed by a capital letter or an underscore
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-43
+<b>The 'exitGame' identifier should have the 'i' prefix followed by a capital letter or an underscore
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-09
+<b>The 'GameLogic_Thread' function should be declared 'noexcept'
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'GameLogic_Thread' has Cyclomatic Complexity value: 1
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'GameLogic_Thread' has Essential Complexity value: 1
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-34
+<b>The incorrect global function name GameLogic_Thread was found
+<l>72
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-31
+<b>Cast to primitive type should not be used if possible
+<l>75
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-65
+<b>Do not convert an object with integer type 'int' to an object with pointer type  'void *'
+<l>75
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-09
+<b>The 'Controller_Thread' function should be declared 'noexcept'
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'Controller_Thread' has Cyclomatic Complexity value: 1
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'Controller_Thread' has Essential Complexity value: 1
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-34
+<b>The incorrect global function name Controller_Thread was found
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-31
+<b>Cast to primitive type should not be used if possible
+<l>81
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-65
+<b>Do not convert an object with integer type 'int' to an object with pointer type  'void *'
+<l>81
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-82
+<b>Consider encapsulating 'velocityArray'
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'velocityArray' variable should be commented
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "velocityArray" with static storage duration is not allowed
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-022
+<b>Global variable 'velocityArray' is declared
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-18
+<b>Naming convention not followed: velocityArray
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-01
+<b>The 'velocityArray' identifier should have the 'rg' prefix
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_mutex_lock' is called without scope resolution operator '::'
+<l>92
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'assertion' is called without scope resolution operator '::'
+<l>95
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_mutex_unlock' is called without scope resolution operator '::'
+<l>98
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'sleep' is called without scope resolution operator '::'
+<l>100
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_mutex_lock' return value
+<l>92
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_mutex_unlock' return value
+<l>98
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'sleep' return value
+<l>100
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-67
+<b>The operand of logical operator '!' has 'int' type instead of 'bool' type
+<l>90
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_mutex_lock" return value
+<l>92
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_mutex_unlock" return value
+<l>98
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "sleep" return value
+<l>100
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-46
+<b>In 'Physics_Thread' function use positive logic rather than negative logic whenever possible
+<l>90
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-83
+<b>A loop does not have a fixed upper nor lower bound
+<l>90
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-83
+<b>A loop does not have a fixed upper nor lower bound
+<l>91
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'Physics_Thread' has Cyclomatic Complexity value: 3
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'Physics_Thread' has Essential Complexity value: 1
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-12_6_a
+<b>The operand of logical operator '!' is not 'effectively Boolean'
+<l>90
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_mutex_lock" return value
+<l>92
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_mutex_unlock" return value
+<l>98
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "sleep" return value
+<l>100
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-34
+<b>The incorrect global function name Physics_Thread was found
+<l>88
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-04
+<b>Postfix operator applied to variable 'i'; prefer prefix type
+<l>91
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-10
+<b>Variable "i" declaration was found in control statement
+<l>91
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-10
+<b>Variable "position" declaration was found in control statement
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-10
+<b>Variable "position" declaration was found in control statement
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "exitGame" with static storage duration is not allowed
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-42
+<b>Put the opening brace '{' on its own line
+<l>90
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-43
+<b>Opening '{' and closing '}' braces are not placed in the same column
+<l>90
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'i' variable should be commented
+<l>91
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "participantsCount" with static storage duration is not allowed
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-42
+<b>Put the opening brace '{' on its own line
+<l>91
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-43
+<b>Opening '{' and closing '}' braces are not placed in the same column
+<l>91
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "changePositionMutex" with static storage duration is not allowed
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'position' variable should be commented
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_8-a
+<b>Variable 'position' should be declared using 'auto' specifier
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "participants" with static storage duration is not allowed
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PB-01
+<b>Dereferenced pointer type expression should not be used
+<l>94
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "velocityArray" with static storage duration is not allowed
+<l>86
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_8-a
+<b>Variable 'position' should be declared using 'auto' specifier
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_8-a
+<b>Variable 'position' should be declared using 'auto' specifier
+<l>93
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "ring" with static storage duration is not allowed
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_8-a
+<b>Variable 'ring' should be declared using 'auto' specifier
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "changePositionMutex" with static storage duration is not allowed
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PB-11
+<b>The type 'int' of function argument number '1' does not match declared type 'unsigned int'
+<l>100
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-82
+<b>Consider encapsulating 'currentCameraVelocity'
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'currentCameraVelocity' variable should be commented
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "currentCameraVelocity" with static storage duration is not allowed
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-022
+<b>Global variable 'currentCameraVelocity' is declared
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-18
+<b>Naming convention not followed: currentCameraVelocity
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-22
+<b>Naming convention not followed: currentCameraVelocity
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-34
+<b>The 'currentCameraVelocity' identifier should have the 'p' prefix
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'object' as const
+<l>110
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-MCPP-09
+<b>The 'draw' function should be declared 'noexcept'
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-28
+<b>Return type is not placed in line before function 'draw'
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'draw' has Cyclomatic Complexity value: 1
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'draw' has Essential Complexity value: 1
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-17
+<b>Naming convention not followed: draw
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-32_b
+<b>Function 'draw' is empty
+<l>110
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-HN-34
+<b>The 'object' identifier should have the 'p' prefix
+<l>110
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_mutex_lock' is called without scope resolution operator '::'
+<l>118
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_mutex_unlock' is called without scope resolution operator '::'
+<l>120
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_mutex_lock' is called without scope resolution operator '::'
+<l>123
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_mutex_unlock' is called without scope resolution operator '::'
+<l>125
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'sleep' is called without scope resolution operator '::'
+<l>128
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_mutex_lock' return value
+<l>118
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_mutex_unlock' return value
+<l>120
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_mutex_lock' return value
+<l>123
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_mutex_unlock' return value
+<l>125
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'sleep' return value
+<l>128
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-67
+<b>The operand of logical operator '!' has 'int' type instead of 'bool' type
+<l>117
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_mutex_lock" return value
+<l>118
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_mutex_unlock" return value
+<l>120
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_mutex_lock" return value
+<l>123
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_mutex_unlock" return value
+<l>125
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "sleep" return value
+<l>128
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-46
+<b>In 'Render_Thread' function use positive logic rather than negative logic whenever possible
+<l>117
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-83
+<b>A loop does not have a fixed upper nor lower bound
+<l>117
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-83
+<b>A loop does not have a fixed upper nor lower bound
+<l>122
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'Render_Thread' has Cyclomatic Complexity value: 3
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'Render_Thread' has Essential Complexity value: 1
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-12_6_a
+<b>The operand of logical operator '!' is not 'effectively Boolean'
+<l>117
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_mutex_lock" return value
+<l>118
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_mutex_unlock" return value
+<l>120
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_mutex_lock" return value
+<l>123
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_mutex_unlock" return value
+<l>125
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "sleep" return value
+<l>128
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-34
+<b>The incorrect global function name Render_Thread was found
+<l>115
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-04
+<b>Postfix operator applied to variable 'i'; prefer prefix type
+<l>122
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>OPT-10
+<b>Variable "i" declaration was found in control statement
+<l>122
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "exitGame" with static storage duration is not allowed
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-42
+<b>Put the opening brace '{' on its own line
+<l>117
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-43
+<b>Opening '{' and closing '}' braces are not placed in the same column
+<l>117
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "changePositionMutex" with static storage duration is not allowed
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "currentCameraVelocity" with static storage duration is not allowed
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "ring" with static storage duration is not allowed
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_8-a
+<b>Variable 'ring' should be declared using 'auto' specifier
+<l>67
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "changePositionMutex" with static storage duration is not allowed
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'i' variable should be commented
+<l>122
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "participantsCount" with static storage duration is not allowed
+<l>69
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-42
+<b>Put the opening brace '{' on its own line
+<l>122
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-43
+<b>Opening '{' and closing '}' braces are not placed in the same column
+<l>122
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "changePositionMutex" with static storage duration is not allowed
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "currentCameraVelocity" with static storage duration is not allowed
+<l>108
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "participants" with static storage duration is not allowed
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "changePositionMutex" with static storage duration is not allowed
+<l>65
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "participants" with static storage duration is not allowed
+<l>68
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PB-11
+<b>The type 'int' of function argument number '1' does not match declared type 'unsigned int'
+<l>128
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>138
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>139
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>140
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>141
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>138
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>139
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>140
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>141
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>138
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>139
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>140
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>141
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-27
+<b>Global variable 'exitGame' is modified in function 'runGameThreads'
+<l>136
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-28
+<b>Return type is not placed in line before function 'runGameThreads'
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'runGameThreads' has Cyclomatic Complexity value: 1
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'runGameThreads' has Essential Complexity value: 1
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>138
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>139
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>140
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>141
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-17
+<b>Naming convention not followed: runGameThreads
+<l>134
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "exitGame" with static storage duration is not allowed
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread1' variable should be commented
+<l>137
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread2' variable should be commented
+<l>137
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread3' variable should be commented
+<l>137
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread4' variable should be commented
+<l>137
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>148
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>149
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>150
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-23
+<b>The global function 'pthread_create' is called without scope resolution operator '::'
+<l>151
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>148
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>149
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>150
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-CPP-58
+<b>Unused function's 'pthread_create' return value
+<l>151
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>148
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>149
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>150
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-122_a
+<b>Unused function's "pthread_create" return value
+<l>151
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-27
+<b>Global variable 'exitGame' is modified in function 'runGameThreads2'
+<l>146
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-28
+<b>Return type is not placed in line before function 'runGameThreads2'
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-29
+<b>Function 'runGameThreads2' has Cyclomatic Complexity value: 1
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-33
+<b>Function 'runGameThreads2' has Essential Complexity value: 1
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>148
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>149
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>150
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-16_10
+<b>Unused function's "pthread_create" return value
+<l>151
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>NAMING-17
+<b>Naming convention not followed: runGameThreads2
+<l>144
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-3_3_1-a
+<b>Use of variable "exitGame" with static storage duration is not allowed
+<l>70
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread1' variable should be commented
+<l>147
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread2' variable should be commented
+<l>147
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread3' variable should be commented
+<l>147
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-05
+<b>The 'thread4' variable should be commented
+<l>147
+<k>39
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-04
+<b>Line has over 79 characters
+<l>19
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>METRICS-26
+<b>Line contains more than 120 characters: 302
+<l>19
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-37
+<b>Replace the 'MAX_OBJECTS' macro with a constant variable
+<l>55
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-37
+<b>Replace the 'STEP' macro with a constant variable
+<l>56
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-02
+<b>Add comment containing the copyright information at the begin of file 'DeadLock.cpp'
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>COMMENT-03
+<b>Add comment containing the information on the file at the begin of file 'DeadLock.cpp'
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>60
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>61
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>61
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>62
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>74
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>75
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>80
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>81
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>86
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>88
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>89
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>90
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>90
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>91
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>91
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>91
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>92
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>92
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>92
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>92
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>93
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>93
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>93
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>93
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>94
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>94
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>94
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>94
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>95
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>95
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>95
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>95
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>96
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>97
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>98
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>98
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>98
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>98
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>99
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>99
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>99
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>100
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>100
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>100
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>101
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>101
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>102
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>102
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>103
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>108
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>110
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>111
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>112
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>112
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>113
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>115
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>116
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>117
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>117
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>118
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>118
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>118
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>119
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>119
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>119
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>120
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>120
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>120
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>122
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>122
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>122
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>123
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>123
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>123
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>123
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>124
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>124
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>124
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>124
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>125
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>125
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>125
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>125
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>126
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>126
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>126
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>126
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>127
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>127
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>127
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>128
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>128
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>128
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>129
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>129
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>130
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>130
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>131
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>136
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>137
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>138
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>139
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>140
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>141
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>146
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>147
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>148
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>149
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>150
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-01
+<b>Non-ascii tab found
+<l>151
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-25_b
+<b>'return' statement should be used with parenthesis
+<l>75
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-25_b
+<b>'return' statement should be used with parenthesis
+<l>81
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-25_b
+<b>'return' statement should be used with parenthesis
+<l>102
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-25_b
+<b>'return' statement should be used with parenthesis
+<l>130
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-10_b
+<b>#endif pre-processor directive should not be used
+<l>41
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-10_b
+<b>#endif pre-processor directive should not be used
+<l>53
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-26
+<b>#else pre-processor directive should not be used
+<l>24
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-26
+<b>#endif pre-processor directive should not be used
+<l>41
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "Shapes.hpp"
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "Shapes.hpp"
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-10_c
+<b>#if pre-processor directive should not be used
+<l>3
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-11_b
+<b>The #if preprocessor directive is used
+<l>3
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'THREAD'
+<l>7
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'THREAD'
+<l>7
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'THREAD' is enclosed in braces
+<l>7
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'THREAD_RETURN_TYPE'
+<l>8
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'THREAD_RETURN_TYPE'
+<l>8
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'THREAD_RETURN_TYPE' is enclosed in braces
+<l>8
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'thread' should be enclosed in parentheses
+<l>9
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'func' should be enclosed in parentheses
+<l>9
+<k>65
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: THREAD_CREATE
+<l>9
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'THREAD_CREATE' is defined without parentheses
+<l>9
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'THREAD_CREATE'
+<l>9
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: THREAD_CREATE
+<l>9
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'THREAD_CREATE' is enclosed in braces
+<l>9
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'LOCK'
+<l>11
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'LOCK'
+<l>11
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'LOCK' is enclosed in braces
+<l>11
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'lock' should be enclosed in parentheses
+<l>12
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: LOCK_ACQUIRE
+<l>12
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'LOCK_ACQUIRE' is defined without parentheses
+<l>12
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'LOCK_ACQUIRE'
+<l>12
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: LOCK_ACQUIRE
+<l>12
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'LOCK_ACQUIRE' is enclosed in braces
+<l>12
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'lock' should be enclosed in parentheses
+<l>13
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: LOCK_RELEASE
+<l>13
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'LOCK_RELEASE' is defined without parentheses
+<l>13
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'LOCK_RELEASE'
+<l>13
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: LOCK_RELEASE
+<l>13
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'LOCK_RELEASE' is enclosed in braces
+<l>13
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: SLEEP
+<l>15
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'SLEEP' is defined without parentheses
+<l>15
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'SLEEP'
+<l>15
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: SLEEP
+<l>15
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'SLEEP' is enclosed in braces
+<l>15
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-11
+<b>The #else preprocessor directive is used
+<l>17
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-10_c
+<b>#if pre-processor directive should not be used
+<l>19
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-11_b
+<b>The #if preprocessor directive is used
+<l>19
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-18_1_1-a
+<b>Do not use platform-specific multi-threading facilities: <pthread.h>
+<l>21
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-11
+<b>The #else preprocessor directive is used
+<l>24
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>30
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>30
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>30
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>35
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>35
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>35
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>37
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>37
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>37
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>39
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>39
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>39
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'THREAD'
+<l>43
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'THREAD'
+<l>43
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'THREAD' is enclosed in braces
+<l>43
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'THREAD_RETURN_TYPE'
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-04
+<b>'THREAD_RETURN_TYPE' part of statement
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'THREAD_RETURN_TYPE'
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'THREAD_RETURN_TYPE' is enclosed in braces
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'thread' should be enclosed in parentheses
+<l>45
+<k>53
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'func' should be enclosed in parentheses
+<l>45
+<k>65
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: THREAD_CREATE
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'THREAD_CREATE' is defined without parentheses
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'THREAD_CREATE'
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: THREAD_CREATE
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'THREAD_CREATE' is enclosed in braces
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'LOCK'
+<l>47
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'LOCK'
+<l>47
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'LOCK' is enclosed in braces
+<l>47
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'lock' should be enclosed in parentheses
+<l>48
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: LOCK_ACQUIRE
+<l>48
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'LOCK_ACQUIRE' is defined without parentheses
+<l>48
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'LOCK_ACQUIRE'
+<l>48
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: LOCK_ACQUIRE
+<l>48
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'LOCK_ACQUIRE' is enclosed in braces
+<l>48
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_10
+<b>Each instance of parameter: 'lock' should be enclosed in parentheses
+<l>49
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: LOCK_RELEASE
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'LOCK_RELEASE' is defined without parentheses
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'LOCK_RELEASE'
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: LOCK_RELEASE
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'LOCK_RELEASE' is enclosed in braces
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: SLEEP
+<l>51
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA-096
+<b>Body of macro 'SLEEP' is defined without parentheses
+<l>51
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'SLEEP'
+<l>51
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not define function-like macro: SLEEP
+<l>51
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-14
+<b>Not all body of macro 'SLEEP' is enclosed in braces
+<l>51
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-03
+<b>Define constant 'MAX_OBJECTS' using 'const' or 'enum' instead of '#define'
+<l>55
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'MAX_OBJECTS'
+<l>55
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'MAX_OBJECTS'
+<l>55
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-03
+<b>Define constant 'STEP' using 'const' or 'enum' instead of '#define'
+<l>56
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-01
+<b>Do not use the macro definition 'STEP'
+<l>56
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>PREPROC-12
+<b>Do not use #define to define constant: 'STEP'
+<l>56
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>58
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>58
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>58
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-47_a
+<b>The 'const' qualifier should be placed on the right hand side of the type
+<l>58
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'char' basic numerical type
+<l>58
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-02
+<b>Put the opening brace '{' on its own line
+<l>60
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>69
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>69
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>69
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>70
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>70
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>70
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-02
+<b>Put the opening brace '{' on its own line
+<l>90
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-12
+<b>Between conditional statement 'for' and its opening parenthesis '(' should be exactly one space
+<l>91
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>91
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>91
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>91
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-02
+<b>Put the opening brace '{' on its own line
+<l>91
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-47_a
+<b>The 'const' qualifier should be placed on the right hand side of the type
+<l>110
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-02
+<b>Put the opening brace '{' on its own line
+<l>117
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-12
+<b>Between conditional statement 'for' and its opening parenthesis '(' should be exactly one space
+<l>122
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>CODSTA-223
+<b>Use the fixed width integer type from <cstdint> instead of the 'int' basic numerical type
+<l>122
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>HICPP-7_1_6-b
+<b>The basic numerical type 'int' should not be used
+<l>122
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>122
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\FlowAnalysisCpp\DeadLock.cpp
+<c>FORMAT-02
+<b>Put the opening brace '{' on its own line
+<l>122
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
